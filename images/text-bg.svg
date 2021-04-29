@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 857 124" width="857" height="124">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ff371c;stroke-width: 3 } 
+		.txt1 { font-size: 30px;line-height: 24px;fill: #ff431e;font-weight: bold;font-style: italic;font-family: "inglobal" } 
+	</style>
+	<g id="Кактакдану">
+		<path id="bubbles" class="shp0" d="M101.68 31.77C135.53 41.68 157.52 68.18 150.79 90.95C144.06 113.73 111.16 124.16 77.31 114.24C43.46 104.33 21.47 77.83 28.2 55.06C34.93 32.28 67.83 21.86 101.68 31.77ZM48.91 67.63L57.41 93.23L1.64 100.34L48.91 67.63ZM775.2 36.74C741.43 46.65 719.49 73.16 726.21 95.95C732.92 118.73 765.75 129.16 799.52 119.24C833.29 109.33 855.23 82.82 848.52 60.04C841.8 37.25 808.98 26.82 775.2 36.74ZM794.71 42.15L818.45 54.97L835.15 1.42L794.71 42.15Z" />
+		<text id="Как так?!" style="transform: matrix(0.929,-0.37,0.37,0.929,756.147,88.191)" >
+			<tspan x="0" y="0" class="txt1">Как</tspan>
+			<tspan x="0" y="33.6" class="txt1">так?!</tspan>
+		</text>
+		<text id="Да ну!" style="transform: matrix(0.936,0.352,-0.352,0.936,44.011,67.873)" >
+			<tspan x="0" y="0" class="txt1">Да ну!</tspan>
+		</text>
+	</g>
+</svg>

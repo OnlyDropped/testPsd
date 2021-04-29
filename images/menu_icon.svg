@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 16" width="19" height="16">
+	<title>menu_icon</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff431e } 
+	</style>
+	<path id="menu_icon" class="shp0" d="M1 1L17 1L17 4L1 4L1 1ZM1 6L17 6L17 9L1 9L1 6ZM1 11L17 11L17 14L1 14L1 11Z" />
+</svg>
